@@ -4,7 +4,7 @@
 
 ---
 
-Hi, I'm Hari Varma, a Full Stack Developer 🚀 from the United States. Recently, I worked as a Senior IT Systems developer at [Federated Insurance](https://www.federatedinsurance.com). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Hari Varma, a Full Stack Developer 🚀 from the United States. Recently, I worked as a Senior IT Systems developer3 at [Federated Insurance](https://www.federatedinsurance.com). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="./code.gif?raw=true" width="500" height="310" />
   
