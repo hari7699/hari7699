@@ -1,69 +1,79 @@
-<!-- Title and Greeting -->
-<h1 align="center">Hi 👋, I'm HariHara Varma Aketi</h1>
-<h3 align="center">A passionate Full Stack Developer & Cloud Enthusiast</h3>
+<img  alt="GIF" src="./profile.gif" />
 
-<!-- Introduction with badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hari7699&label=Profile%20views&color=0e75b6&style=flat" alt="hari7699" />
-  <a href="https://github.com/hari7699?tab=followers">
-    <img src="https://img.shields.io/github/followers/hari7699?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+<br/>
+
+---
+
+Hi, I'm Hari Varma, a Full Stack Developer 🚀 from the United States. Recently, I worked as a Senior IT Systems developer at [Federated Insurance](https://www.federatedinsurance.com). Beside's programming, I enjoy eating food and traveling.
+
+  <img align="right" alt="GIF" src="./code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 Learning about serverless architectures, distributed systems; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: hariharavarmaaketi@gmail.com
+- 💬 Ask me about anything, I am happy to help;
+- 📝Resume
+
+
+**Languages and Tools:** 
+
+<p>
+
+
+  ### Languages
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png"></code>
+
+  ### Frontend
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+
+  ### Backend
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="8%" src="https://github.com/cncf/landscape/blob/master/hosted_logos/quarkus.svg"></code>
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+
+  ### Database
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="8%" src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/microsoft-sql-server.svg"></code>
+
+
+  ### IDE
+  <code><img width="11%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="6%" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>
+  <code><img width="6%" src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/spring-tool-suite.svg"></code>
+
+  
+  ### DevOps
+  <code><img width="6%" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <code><img width="11%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+
+  ### Testing
+  <code><img width="7%" src="https://mromeh.com/wp-content/uploads/2018/09/mockito-junit5-logo3-horiz.png?w=692"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+  <code><img width="11%" src="https://f.hubspotusercontent20.net/hubfs/2465122/Imported_Blog_Media/SoapUI@2x-1.png"></code>
+  <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"></code>
+
+  ### Version Control
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+  
 </p>
-
----
-
-<!-- Animated GIF or Profile Banner -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hari7699/hari7699/main/coding.gif">
-
-<!-- About Me Section -->
-- 🔭 I’m currently working on **[Your Latest Project]**
-- 🌱 I’m currently learning **Cloud Architecture & DevOps**
-- 💬 Ask me about **Java, Spring Boot, Microservices, and Cloud**
-- ⚡ Fun fact: **I love solving coding challenges and exploring new technologies!**
-
----
-
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari7699&show_icons=true&theme=radical" alt="HariHara's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari7699&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<!-- Most Used Languages -->
-<h3 align="center">💻 Most Used Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari7699&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
----
-
-<!-- Technologies Section with Icons -->
-<h3 align="center">🚀 Technologies & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
----
-
-<!-- Connect With Me Section -->
-<h3 align="center">🤝 Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/aketihari"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hariharavarmaaketi@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/hari7699"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<!-- Footer with Quote -->
----
-<p align="center"><i>"Strive not to be a success, but rather to be of value." - Albert Einstein</i></p>
