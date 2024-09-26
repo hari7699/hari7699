@@ -1,9 +1,9 @@
-<img  alt="GIF" src="./profile.gif" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hari7699.hari7699" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hari+Varma!;" />
+</h1>
 <br/>
-
----
-
 Hi, I'm Hari Varma, a Full Stack Developer 🚀 from the United States. Recently, I worked as a Senior IT Systems developer3 at [Federated Insurance](https://www.federatedinsurance.com). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="./code.gif?raw=true" width="500" height="310" />
@@ -16,7 +16,6 @@ Hi, I'm Hari Varma, a Full Stack Developer 🚀 from the United States. Recently
 - 📫 How to reach me: hariharavarmaaketi@gmail.com
 - 💬 Ask me about anything, I am happy to help;
 - 📝Resume
-
 
 **Languages and Tools:** 
 
