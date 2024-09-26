@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hari+Varma!;" />
 </h1>
 <br/>
-Hi, I'm Hari Varma, a Full Stack Developer 🚀 from the United States. Recently, I worked as a Senior IT Systems developer3 at [Federated Insurance](https://www.federatedinsurance.com). Beside's programming, I enjoy eating food and traveling.
+
+Hi, I'm Hari Varma, a Full Stack Developer 🚀 from the United States. Recently, I worked as a Senior IT Systems Developer3 at [Federated Insurance](https://www.federatedinsurance.com). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="./code.gif?raw=true" width="500" height="310" />
   
