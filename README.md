@@ -25,7 +25,6 @@ Hi, I'm Hari Varma, a Full Stack Developer 🚀 from the United States. Recently
 
   ### Languages
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
